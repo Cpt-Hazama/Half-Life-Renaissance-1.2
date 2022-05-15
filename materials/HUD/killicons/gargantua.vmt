@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/killicons/gargantua"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

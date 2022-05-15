@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/killicons/monster_shocktrooper"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

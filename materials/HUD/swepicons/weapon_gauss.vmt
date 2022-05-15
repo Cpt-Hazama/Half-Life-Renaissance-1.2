@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/swepicons/weapon_gauss"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

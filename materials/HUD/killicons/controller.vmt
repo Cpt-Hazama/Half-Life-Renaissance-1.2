@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/killicons/controller"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

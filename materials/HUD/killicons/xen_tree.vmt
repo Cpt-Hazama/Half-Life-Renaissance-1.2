@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/killicons/xen_tree"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

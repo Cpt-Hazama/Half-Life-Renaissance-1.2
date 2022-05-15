@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/swepicons/hornetgun"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

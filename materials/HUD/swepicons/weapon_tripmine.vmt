@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/swepicons/weapon_tripmine"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

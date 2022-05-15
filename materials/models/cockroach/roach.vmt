@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/cockroach/roach"
+
+	"$bumpmap" "models/cockroach/roach_normal"
+
+	"$detail" "detail/detail_noise1"
+
+	"$detailscale" 2.5
+}

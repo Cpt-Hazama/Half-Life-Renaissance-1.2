@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"maps/lambda_bunker"
+	"$ignorez"		1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+}

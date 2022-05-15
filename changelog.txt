@@ -1,0 +1,24 @@
+- Added GibSplat support
+- Added high definition snark model
+- Added new viewmode for possession SWEP (To switch it press sprint key)
+- Added strider, ichthyosaur, archer and new SNPCs to possessable NPCs
+- Added stukabat
+- Added Heavy Human Grunt
+- Added Mortarsynth
+- Added Nihilanth
+- Added Baby Gargantua
+- Added Opposing Force NPCs: Gonome, Pit Drone, Voltigore, Baby Voltigore, Penguin, Zombie Guard, Zombie Soldier
+- Added Opposing Force SWEPs: Penguin
+- Added infotext on possessed enemies (You can now see who possesses a NPC by looking at the NPC)
+- Added NPC Control Menu
+- Added NPC Control Stools for npc controlling, npc health, npc movement and npc relationships
+- Changed Panthereye and Archer sounds
+- Fixed Satchel remote not showing up in multiplayer
+- Fixed not being able to respawn after the possessed NPC died
+- Fixed human grunt not dying in multiplayer sometimes
+- Fixed being able to possess an enemy which is already possessed by someone else
+- Fixed Gauss cannon tracer problems
+- Fixed physics of some sents
+- Fixed third level of HL1
+- Fixed players spawning outside of the train in the first level
+- Fixed lag when spawning a SNPC on a large map

@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"name"		"Half-Life"
+	"version"	"1.0"
+
+	"author_name"	"Silverlan"
+	"author_email"	""
+	"author_url"	""
+	
+	"info"		""
+	"hide"		"0"
+}
